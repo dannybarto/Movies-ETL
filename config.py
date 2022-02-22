@@ -1,0 +1,1 @@
+db_password = 'H0quvxkv1rl'
